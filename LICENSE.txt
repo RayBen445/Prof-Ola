@@ -1,4 +1,4 @@
-Copyright (c) 2025 PRINCE MAYEL
+Copyright (c) 2025 Professor 👨‍🏫📚
 
 All rights reserved.
 
@@ -11,4 +11,4 @@ Unauthorized use, reproduction, or distribution of this software, in whole or in
 This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
 
 For permission or inquiries, contact the developer:  
-GitHub: [https://github.com/Mayelprince](https://github.com/Mayelprince)
+GitHub: [https://github.com/RayBen445](https://github.com/RayBen445)
