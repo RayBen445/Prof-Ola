@@ -1,0 +1,38 @@
+{
+  "bot-name": "PRINCE-MDXI",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ",
+  "logo": "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://princeweb.onrender.com",
+  "owner-verification": "princemayel99@gmail.com",
+  
+  "env": {
+    "SESSION_ID": {
+      "description": "Must Start with 'PRINCE-MDX~'",
+      "required": true,
+      "value": "PRINCE-MD~H4sIAAAAAAAAA5VU25KiSBD9l3rVGBEQ0IiOGEAEUbw1eNuYh2oosLgUSBUgTvjvG9jTM/OwO9v7QhRJkedknpP5HZAcU7RALZh8B0WJa8hQd2RtgcAEaFUYohL0QQAZBBPQM3SU6NxyammzkI+bIJXD0Xnq9CChhW8PDHnqsMXGNnnvBTz6oKjeUuz/IeFgx5CVnfgyLhL5iIbxUluq09Xr6Tq9VNCV3yTiklINBEN5AY8uI8QlJpFRXFCGSpguULuBuPwc/a0ZuUFTcqiyrF1P7NlBPToXQnrwBlocaTY6OZYBm7oRlM/Rx/tNvRQNJcn2nBv0tLwxIknUQ1EN1IMyCFYpyzSqx8coeqdPcURQMA8QYZi1n+77we7dzmk4uJsJOkT7c62as3lqrvlaLtfXff1qZ9MW+e0xmX+O+OWWXGnmBd4dh8VIe7vdsszgDRLdzfg+M1lhM94MBZLvm9+Jb8oPryT/p++Go9zPV2+5b7Td3T+Tt4hvc+kqamG8dxxT2LtuuhnuQ5Ekn6O/PofSEb3idKHo8hRiYvEo9KjP6eNzJtmnrVEjaO/TPOV+0YesKv/EEkqDWtHlsQUrblRrpjfTpBHnt9rm7XBzizdBz+Q8QpHT+pex4y6Hy0XbtteTdGdrugnXaSw7Nru+HtPxaBzWeK2Pr9Pm5VlRgtp5ACbDRx+UKMKUlZDhnDxjMtcHMKhfkV8i9mwv4GiwJ3V2Pd7s3dxbixj6yBqotrtTjoG0iD242tSiKo0r5QX0QVHmPqIUBRamLC9bB1EKI0TB5K9vfUDQjb0L18EJwz4IcUmZR6oizWHwoerHR+j7eUXYa0t8vTugEky4X2HEGCYR7fpYEVj6F1wj/QIZBZMQphT9rBCVKAATVlbo59TqedA1Xhed1d6Z2aAPsqcgOAATwAuiwskjaSjyojIRvtIvTZcWFsUXghjoAwK722BT5iGieSdc+vxxKCkKL/N895SH0kT42sUfPyl3CAFiEKe0A18c03E1140lOgnO3DRVI1L1SAW/SvzwyrsWAzlaNxxPvWNcsvWZ8xNusbJGYdrT7mK48LKglabT+DKMuJd/SAImINJn+KBsr1srLi5U5qYXm8M7sz0sX+fHCkWpLidK4Cp4JN+IE0lwTIh3kHtzj9saiUSScc7xF132roW1dAVBRsb+aaw+CFCNffQ72G58ZpVSRnhLVknO/PpucqIzK+RNky6kggon110tWnl68+43ReKbzL9rnOk0cX47zIty28PDysfq4m6pRoPzTVxMte27i59TlP7YXvjpr0687jXE6LkMfoj0n2K+E+88xz36v+X4sV7+ZUS1sCdO6WpVzmaiJLtZYNkrPd71jqMw8ntWm9rEr6JGFIPTCjwe3/qgSCEL8zIDE0CzNwj6oMyrzsFzEuZ/QNJVb65G72WnkDL111S4OEOUwazoZnfEjYQRL/DvtzZlXliQXsAECNHGsxPw+BtYz7utYwcAAA=="
+    },  
+    "MODE": {
+      "description": "Set private/public/inbox/groups",
+      "required": false,
+      "value": "public"
+    },
+    "OWNER_NAME": {
+      "description": "Put Owner Name Here",
+      "required": true,
+      "value": "Professor 👨‍🏫📚"
+    },
+    "OWNER_NUMBER": {
+      "description": "Put only one Owner Number Here",
+      "required": true,
+      "value": "2348075614248"
+    },
+    
+   
+    "PREFIX": {
+      "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
+      "required": true,
+      "value": "."
+    }
+  }
+}
