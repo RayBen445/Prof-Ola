@@ -3,11 +3,11 @@
 
 
   <p align="center">
-<a href="https://github.com/Mayelprince/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mayelprince/PRINCE-MDXI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mayelprince/PRINCE-MDXI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mayelprince/PRINCE-MDXI/"><img title="Size" src="https://img.shields.io/github/repo-size/Mayelprince/PRINCE-MDXI?style=flat-square&color=green"></a>
-<a href="https://github.com/Mayelprince/PRINCE-MDXI/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/RayBen445/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
+<a href="https://github.com/RayBen445/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
+<a href="https://github.com/RayBen445/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
+<a href="https://github.com/RayBen445/"><img title="Size" src="https://img.shields.io/github/repo-size/Mayelprince/PRINCE-MDXI?style=flat-square&color=green"></a>
+<a href="https://github.com/RayBen445/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -39,7 +39,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/Mayelprince/PRINCE-MDXI/fork"><img title="PRINCE-MDXI" src="https://img.shields.io/badge/FORK-PRINCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/RayBen445/fork"><img title="PRINCE-MDXI" src="https://img.shields.io/badge/FORK-PRINCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
@@ -120,17 +120,6 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🪀 WHATSAPP CHANNEL 
-STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
-
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vakd0RY35fLr1MUiwO3O)
-
-## 🪀 WHATSAPP GROUP
-JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
-
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vakd0RY35fLr1MUiwO3O)
-
- 
 
 
 ***
@@ -148,12 +137,8 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 <br>
 
 ```
-I'M PRINCE M.
-THANKS TO;
-TAIRA MAKINO.
-GIFTED.
-OPAKS.
-FOR SUPPORTING ME IN THIS PROJECT 🙏 
+I'M Professor 👨‍🏫📚.
+
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
