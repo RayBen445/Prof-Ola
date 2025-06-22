@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=PRINCE%20MDXI%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=PROFESSOR%20%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
 
@@ -20,13 +20,13 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=THANKS%20FOR%20CHOOSING%20PRINCE-MDXI;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20PRINCE%20TECH" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=THANKS%20FOR%20CHOOSING%20Professor 👨‍🏫📚;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20PROFESSOR%20TECH" alt="Typing SVG" />
 </a>
 </p>
   
 --- 
 
-<a><img src='https://files.catbox.moe/upmwpw.jpg'/></a>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -39,7 +39,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/RayBen445/fork"><img title="PRINCE-MDXI" src="https://img.shields.io/badge/FORK-PRINCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/RayBen445/fork"><img title="Professor 👨‍🏫📚" src="https://img.shields.io/badge/FORK-PROFESSOR%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
@@ -64,7 +64,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁PRINCE-MDXI DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁Professor 👨‍🏫📚 DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
